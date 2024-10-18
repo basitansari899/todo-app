@@ -12,6 +12,7 @@ Clone the project
 
 ```bash
 git clone https://github.com/basitansari899/todo-app
+```
 
 ## Screenshots
 
