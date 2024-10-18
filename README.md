@@ -13,6 +13,23 @@ Clone the project
 ```bash
 git clone https://github.com/basitansari899/todo-app
 ```
+Go to the project directory
+
+```bash
+  cd Todo-App
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+run main.dart file 
+
+```bash
+  flutter run
+```
 
 ## Screenshots
 
