@@ -23,4 +23,7 @@ git clone https://github.com/basitansari899/todo-app
     <img src="./screenshots/s4.jpg" alt="Scavenger hunt location selection" width="250">
     <img src="./screenshots/s5.jpg" alt="Scavenger hunt location selection" width="250">
     <img src="./screenshots/s6.jpg" alt="Scavenger hunt location selection" width="250">
+    <img src="./screenshots/s7.jpg" alt="Scavenger hunt location selection" width="250">
+    <img src="./screenshots/s8.jpg" alt="Scavenger hunt location selection" width="250">
+
 </p>
